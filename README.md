@@ -9,4 +9,6 @@ Parameters:
 - $v - speed of the electron,
 - $N - number of iterations,
 - $dt - time shift at one iteration,
-- $scale - image scale, 
+- $scale - image scale.
+
+- Demo: https://integralsd.com/sergey/programming/electron/
