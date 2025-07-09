@@ -1,7 +1,7 @@
 # electron
 Visualize electron energy flow lines.
 PHP script calculating Umov-Poynting vectors for the electromagnetic field of the "classical electron" - a particle carrying point-like electric charge and magnetic momentum,
-and building corresponding energy flow lines.
+and building corresponding energy flow lines. Run electron.php in the browser.
 
 Parameters:
 - $e_part - relative contribution of electric charge, 
