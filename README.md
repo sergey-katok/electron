@@ -11,4 +11,4 @@ Parameters:
 - $dt - time shift at one iteration,
 - $scale - image scale.
 
-- Demo: https://integralsd.com/sergey/programming/electron/
+Demo: https://integralsd.com/sergey/programming/electron/
